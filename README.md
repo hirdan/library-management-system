@@ -1,7 +1,2 @@
-"# javascript" 
-"# javascript" 
-"# rap-generator" 
-"# security-system" 
-"# calculator" 
-"# calender" 
+# C Programming Language
 "# library-management-system" 
